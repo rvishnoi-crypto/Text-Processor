@@ -1,5 +1,9 @@
 # Text-Processor
 
+- A simple text-processor using inbuilt C++ streams and incorporating the decorator and the MVC design pattern on objects.
+- Uses container objects like vectors for dynamic memory allocation and error-handling of user input.
+
+
 
 A simple textprocessor is created. The users role is to input a file or commands for standard input along with the following command line arguments: 
 1. doublewords- this doubles each word in the input provided
